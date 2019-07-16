@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #fff;
+  font-family:verdana,sans-serif;
+  color: #rgba(255, 0, 0, 0.5);
+  line-height: 1.4;
+  margin: 0;}
+
+nav a{color: gold;
+text-decoration: none;
+text-transform: uppercase;
+font-weight: bold;}
+
+ul{list-style: none; /* Punke bei der Liste entfernen*/
+  padding: 0; /*Aussenabstände*/
+  margin: 0;}
+
+#pageheader{background-image:url(img/background.jpg);padding-top: 25px;}
+
+h4{font-family: Helvetica, padding: 0;
+  margin: 250;}
+
+.wrapper{border-color: red;
+border-width: 2;
+border-style: dotted;}
